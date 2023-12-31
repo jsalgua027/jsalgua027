@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Nacho Salcedo</h1>
 
+- 👀 I’m interested in new technologies, programming, web development, database, design, photography....
+- 🌱 I’m currently learning Java, JavaScript, Html, Css, Mysql, Php, React
+- 💞️ I’m looking to collaborate on with any person who is willing to contribute knowledge and
+-     is willing to carry out projects both at the student level and at the professional level
+- 📫 How to reach me jsalcedoguarde@gmail.com
+
+
 
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 I’m currently learning **WEB Development Full-Stack**
+
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
