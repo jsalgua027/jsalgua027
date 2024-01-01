@@ -34,7 +34,8 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jsalgua027&theme=dark&locale=en" alt="jsalgua027" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jsalgua027&theme=dark" alt="jsalgua027" /></p>
+<p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jsalgua027&theme=dark&locale=es&mode=weekly" alt="GitHub Streak" /></a></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
