@@ -46,11 +46,9 @@
 <a href="https://www.instagram.com/nachosalc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jsalgua027&label=Profile%20views&color=0e75b6&style=flat" alt="jsalgua027" /> </p>
 
 ------
 
 
-[ANii693](https://github.com/ANii693)
 
-Last Edited on: 28/02/2023
